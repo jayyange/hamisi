@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Hamisi Yange.", "Designer.", "Lawyer.", "Writer."],
+      strings: ["Hamisi Yange.", "Designer.", "Lawyer.", "An author."],
       typeSpeed: 200,
       loop: true,
     });
